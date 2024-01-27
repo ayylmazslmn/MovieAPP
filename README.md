@@ -15,4 +15,5 @@ The information you get when you click on the movie you want to search for
 ![Ekran Resmi 2024-01-27 13 31 13](https://github.com/ayylmazslmn/MovieAPP/assets/101000802/f6d80591-919a-4078-88f4-0eb5faa9208c)
 
 
-The first version of the application is now. Some nice features will be added in later stages. It is an app made for the sake of education and self-improvement.
+The initial version of the application is now available, with additional features slated for future stages. This educational and self-improvement app is designed to evolve over time, incorporating various enhancements to provide a more comprehensive user experience.
+
